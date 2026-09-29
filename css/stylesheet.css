@@ -38,8 +38,6 @@ li {
 
 header{
     text-align: center;
-    border-style: solid;
-    border-color: red;
 }
 
 #mainImages{
@@ -53,8 +51,6 @@ header{
 aside{
     width: 18%;
     float: right;
-    border-style: solid;
-    border-color: blue;
 }
 
 aside img{
@@ -67,8 +63,6 @@ aside img{
 #widthImage {
     width: 80%;
     float: left;
-    border-style: solid;
-    border-color: green;
 }
 
 #widthImage img{
@@ -84,8 +78,6 @@ aside img{
     height: 370px;
     margin: 20px 90px 20px 90px;
     padding: 20px;
-    border-style: double;
-    border-color: red;
 }
 
 #fourArticles img{
@@ -99,8 +91,6 @@ aside img{
 #fourArticles article{
     width: 46%;
     float: left;
-    border-style: solid;
-    border-color: red;
 }
 
 #fourArticles article a{
